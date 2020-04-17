@@ -11,8 +11,8 @@ var wordToMatch;
 var numGuess;
 var wins = 0;
 var pause = false; // This var and setTimout function to not listen for keypress while game resets
-var loseSound = new Audio("../assets/sounds/Aww-Sound-Effect.mp3");
-var winSound = new Audio("../assets/sounds/Audience-Clapping.mp3");
+var loseSound = new Audio("./assets/sounds/Aww-Sound-Effect.mp3");
+var winSound = new Audio("./assets/sounds/Audience-Clapping.mp3");
 
 //Starts game
 function initializeGame() {
