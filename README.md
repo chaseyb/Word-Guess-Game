@@ -8,7 +8,7 @@
 
 ## Description
 
-The purpose of this HW assignment was to design a design a word guessing game that uses CSS, HTML, and Javascript. For this game I picked the theme of iconic movies. There are over 20 movies to guess!
+The purpose of this HW assignment was to design a word guessing game that uses CSS, HTML, and Javascript. For this game I picked the theme of iconic movies. There are over 20 movies to guess from!
 
 ## Rules 
 
