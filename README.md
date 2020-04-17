@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-* open gitbash on Windows or Terminal on Mac
-* git clone https://github.com/chaseyb/Word-Guess-Game.git
-* enjoy
+* Open gitbash on Windows or Terminal on Mac
+* Git clone https://github.com/chaseyb/Word-Guess-Game.git
+* Enjoy
 
 ## Description
 
